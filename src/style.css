@@ -1,0 +1,22 @@
+.col{
+    border: bold 10px;
+    background-color: tomato;
+    display: block;
+    position: relative;
+}
+
+.adresse{
+    margin-top: 50px;
+}
+.im1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.jumbotron-fluid{
+background-color: wheat;
+
+}
+.jjf{
+    height: 350px;
+}
