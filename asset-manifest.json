@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "//checkpoint-react-component/static/css/main.a72871ed.chunk.css",
-    "main.js": "//checkpoint-react-component/static/js/main.be7d5f48.chunk.js",
-    "main.js.map": "//checkpoint-react-component/static/js/main.be7d5f48.chunk.js.map",
-    "runtime-main.js": "//checkpoint-react-component/static/js/runtime-main.833d5449.js",
-    "runtime-main.js.map": "//checkpoint-react-component/static/js/runtime-main.833d5449.js.map",
-    "static/js/2.0e3443df.chunk.js": "//checkpoint-react-component/static/js/2.0e3443df.chunk.js",
-    "static/js/2.0e3443df.chunk.js.map": "//checkpoint-react-component/static/js/2.0e3443df.chunk.js.map",
-    "index.html": "//checkpoint-react-component/index.html",
-    "precache-manifest.639ecec74ad3a432fec653c8d92c4ff2.js": "//checkpoint-react-component/precache-manifest.639ecec74ad3a432fec653c8d92c4ff2.js",
-    "service-worker.js": "//checkpoint-react-component/service-worker.js",
-    "static/css/main.a72871ed.chunk.css.map": "//checkpoint-react-component/static/css/main.a72871ed.chunk.css.map",
-    "static/js/2.0e3443df.chunk.js.LICENSE.txt": "//checkpoint-react-component/static/js/2.0e3443df.chunk.js.LICENSE.txt"
+    "main.css": "/checkpoint-props/static/css/main.5f361e03.chunk.css",
+    "main.js": "/checkpoint-props/static/js/main.4bf6d32b.chunk.js",
+    "main.js.map": "/checkpoint-props/static/js/main.4bf6d32b.chunk.js.map",
+    "runtime-main.js": "/checkpoint-props/static/js/runtime-main.03f16f97.js",
+    "runtime-main.js.map": "/checkpoint-props/static/js/runtime-main.03f16f97.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/checkpoint-props/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.18518117.chunk.js": "/checkpoint-props/static/js/2.18518117.chunk.js",
+    "static/js/2.18518117.chunk.js.map": "/checkpoint-props/static/js/2.18518117.chunk.js.map",
+    "index.html": "/checkpoint-props/index.html",
+    "precache-manifest.750fa1536c2b98a9cad171be30b8de73.js": "/checkpoint-props/precache-manifest.750fa1536c2b98a9cad171be30b8de73.js",
+    "service-worker.js": "/checkpoint-props/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/checkpoint-props/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/checkpoint-props/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.18518117.chunk.js.LICENSE.txt": "/checkpoint-props/static/js/2.18518117.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/checkpoint-props/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.833d5449.js",
-    "static/js/2.0e3443df.chunk.js",
-    "static/css/main.a72871ed.chunk.css",
-    "static/js/main.be7d5f48.chunk.js"
+    "static/js/runtime-main.03f16f97.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.18518117.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4bf6d32b.chunk.js"
   ]
 }
